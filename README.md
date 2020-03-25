@@ -1,4 +1,4 @@
-# jjkohler_Portfolio
+# Portfolio
 Jared's GIS Project Portfolio
 
 # About Me
