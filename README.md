@@ -15,3 +15,6 @@ Although I have worked with maps for many years, I'm really excited to dive deep
 I also hope to gain more insight about how to effectively managed GIS projects that necessarily involve numerous people and data sources. Best practices for how to manage this often chaotic process would be much valued.
 
 # Portfolio
+
+![Wadi Rum](Rum_FB-1747.jpg)
+Format: ![Alt Text](url)
