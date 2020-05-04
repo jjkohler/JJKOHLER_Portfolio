@@ -21,16 +21,21 @@ I also hope to gain more insight about how to effectively managed GIS projects t
 ![Palette](palette.PNG)
 ![Sample](Map_Example.PNG)
 
+[link to Google Maps Style!](jjkohler_custom.json)
+
 ### Custom ArcGIS Map Style from Image
 ![Georgia](Georgia_FB-9074.jpg)
 ![Palette](color_palette_georgia.PNG)
 ![Sample](georgia_wide.PNG)
+
 [link to ArcGIS Style!](https://developers.arcgis.com/vector-tile-style-editor/ca88e8a1b16c4a7a8ed9ade79f30ca48/quick)
 
 # Mapbox Examples
 
 ![Georgia](States.PNG)
 Mapbox styling showing states at wider zoom levels
+
 ![Palette](counties.PNG)
 And counties at closer zoom extents
+
 [link to Mapbox Example!](https://api.mapbox.com/styles/v1/jjkoher/ck8oqszv93vi11jo0q85bjg0z.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiamprb2hlciIsImEiOiJjanhtM3JncHIwMjY4M3BtbXV0Z2dvZzg0In0._o4vt3R-MDgSonaoHMmk8w#2.3/38.99/-95.06)
