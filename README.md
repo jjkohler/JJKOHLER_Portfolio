@@ -32,6 +32,7 @@ I also hope to gain more insight about how to effectively managed GIS projects t
 
 # Mapbox Examples
 
+### Drug Useage Map
 ![States](States.PNG)
 Mapbox styling showing states at wider zoom levels
 
@@ -40,13 +41,14 @@ And counties at closer zoom extents
 
 [link to Mapbox Example](https://api.mapbox.com/styles/v1/jjkoher/ck8oqszv93vi11jo0q85bjg0z.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiamprb2hlciIsImEiOiJjanhtM3JncHIwMjY4M3BtbXV0Z2dvZzg0In0._o4vt3R-MDgSonaoHMmk8w#2.3/38.99/-95.06)
 
+### PA Employment Risk due to COVID Closures
 ![PA Employment Risk](Employment.png)
 Mapbox with custom CSS, HTML, and JavaScript for interactivity
 
 [View Here](https://htmlpreview.github.io/?https://github.com/jjkohler/COVID19/blob/master/Brookings_Risk.html)
 
 # Tableau
-Emergency Shelter Assignment Modeling
+### Emergency Shelter Assignment Modeling
 ![Scenario 0](Scenario_0_map.png)
 
 ![Scenario 2](Scenario_2_map.png)
@@ -54,7 +56,7 @@ Emergency Shelter Assignment Modeling
 [Interactive Map Dashboard](https://public.tableau.com/views/AlleghenyCountyPODs/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link)
 
 
-Polar Bear Tracking Interactive Map
+### Polar Bear Tracking Interactive Map
 ![Polar Bear](polar.png)
 Comparing range of polar bear travel and ice extents
 
