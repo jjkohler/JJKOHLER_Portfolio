@@ -40,7 +40,7 @@ And counties at closer zoom extents
 
 [link to Mapbox Example](https://api.mapbox.com/styles/v1/jjkoher/ck8oqszv93vi11jo0q85bjg0z.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiamprb2hlciIsImEiOiJjanhtM3JncHIwMjY4M3BtbXV0Z2dvZzg0In0._o4vt3R-MDgSonaoHMmk8w#2.3/38.99/-95.06)
 
-![PA Employment Risk](employment.PNG)
+![PA Employment Risk](Employment.PNG)
 Mapbox with custom CSS, HTML, and JavaScript for interactivity
 
 [View Here](https://htmlpreview.github.io/?https://github.com/jjkohler/COVID19/blob/master/Brookings_Risk.html)
