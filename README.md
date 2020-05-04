@@ -44,3 +44,10 @@ And counties at closer zoom extents
 Mapbox with custom CSS, HTML, and JavaScript for interactivity
 
 [View Here](https://htmlpreview.github.io/?https://github.com/jjkohler/COVID19/blob/master/Brookings_Risk.html)
+
+# Tableau
+![Scenario 0](Scenario_0_map.png)
+
+![Scenario 2](Scenario_2_map.png)
+
+[Interactive Map Dashboard](https://public.tableau.com/views/AlleghenyCountyPODs/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link)
