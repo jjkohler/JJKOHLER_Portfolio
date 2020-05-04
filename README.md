@@ -6,7 +6,7 @@ I've ***loved*** maps since I was little. My grandfather knew my obsession and w
 
 While studying my undergrad I every wall of my bedroom was covered in NatGeo and antique world maps and I paid my way through both film school and an International Relations degree by doing GIS work for oil industry clients, using *GeoGrafix* and *Petra* mapping softwares.
 
-I currently work at the CREATELab on CMU campus, mostly with their EarthTime GIS project. In the course of my work there I often go back and forth between *QGIS*, *ArcGIS*, *Mapbox*, *GeoPandas*, *Google Earth*, and a handful of other mapping related tools. A bad day working with maps is better than a good day doing many other things.
+I currently work at the CREATELab on CMU campus, mostly with their EarthTime GIS project. In the course of my work there I often go back and forth between *QGIS*, *ArcGIS*, *Mapbox*, *GeoPandas*, *Google Earth*, *Tableau* and a handful of other mapping related tools. A bad day working with maps is better than a good day doing many other things.
 
 # What I Hope to Learn
 
