@@ -46,8 +46,16 @@ Mapbox with custom CSS, HTML, and JavaScript for interactivity
 [View Here](https://htmlpreview.github.io/?https://github.com/jjkohler/COVID19/blob/master/Brookings_Risk.html)
 
 # Tableau
+Emergency Shelter Assignment Modeling
 ![Scenario 0](Scenario_0_map.png)
 
 ![Scenario 2](Scenario_2_map.png)
 
 [Interactive Map Dashboard](https://public.tableau.com/views/AlleghenyCountyPODs/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link)
+
+
+Polar Bear Tracking Interactive Map
+![Polar Bear](polar.png)
+Comparing range of polar bear travel and ice extents
+
+[Polar Bear and Ice Tracking Map](https://public.tableau.com/views/PB_Range_Month/PolarBearRangeByMonth?:display_count=y&:origin=viz_share_link)
