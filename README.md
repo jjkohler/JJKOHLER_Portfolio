@@ -17,3 +17,6 @@ I also hope to gain more insight about how to effectively managed GIS projects t
 # Portfolio
 
 ![Wadi Rum](Rum_FB-1747.jpg)
+![Wadi Rum](palette.PNG)
+![Wadi Rum](Map_Example.PNG)
+
