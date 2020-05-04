@@ -26,3 +26,9 @@ I also hope to gain more insight about how to effectively managed GIS projects t
 ![Palette](color_palette_georgia.PNG)
 ![Sample](georgia_wide.PNG)
 
+# Mapbox Examples
+
+![Georgia](States.PNG)
+Mapbox styling showing states at wider zoom levels
+![Palette](counties.PNG)
+And counties at closer zoom extents
