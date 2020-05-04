@@ -45,7 +45,7 @@ And counties at closer zoom extents
 ![PA Employment Risk](Employment.png)
 Mapbox with custom CSS, HTML, and JavaScript for interactivity
 
-[View Here](https://htmlpreview.github.io/?https://github.com/jjkohler/COVID19/blob/master/Brookings_Risk.html)
+[View Interactive Employment Map](https://htmlpreview.github.io/?https://github.com/jjkohler/COVID19/blob/master/Brookings_Risk.html)
 
 # Tableau
 ### Emergency Shelter Assignment Modeling
