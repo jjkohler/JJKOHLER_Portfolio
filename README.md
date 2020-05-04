@@ -21,3 +21,8 @@ I also hope to gain more insight about how to effectively managed GIS projects t
 ![Palette](palette.PNG)
 ![Sample](Map_Example.PNG)
 
+### Custom ArcGIS Map Style from Image
+![Georgia](Georgia_FB-9074.jpg)
+![Palette](color palette georgia.PNG)
+![Sample](georgia_wide.PNG)
+
